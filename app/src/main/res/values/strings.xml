@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Pseudolocalization</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="short_string">Hello world!</string>
+    <string name="long_string">Hello world, it is a wonderful day! I hope you are doing well. See you soon!</string>
+    <string name="param_string">Hello, %1$s!</string>
 </resources>
